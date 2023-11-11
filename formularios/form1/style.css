@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#franja1{
+    background:  linear-gradient(to right, #27374D,#526D82);
+    height:5vh;
+}
+#franja2{
+    background: linear-gradient(to left,#526D82,#9DB2BF);
+    height:5vh;
+}
+#franja3{
+    background: linear-gradient(to right,#9DB2BF,#DDE6ED);
+    height:5vh;  
+}
+#colizq{
+    background: linear-gradient(to right,#59fde7);
+}
+
+#containerform{
+    height: 70vh;
+    background: linear-gradient(to right,#fff,#fff,#ececec,#f3f3f3,#ececec,#fff,#fff);
+}
+#idmensaje{
+    height: 20vh;
+}
+.form-control{
+    border: none;
+}
+#button{
+    color: #c3fff7;
+    padding: 10px;
+    background-color: #27374D;
+    border: 0;
+    border-radius:30px;
+    box-shadow: 3px 2px 5px #9DB2BF;
+}
+.bimenu{
+    color: #c3fff7;
+}
+.biredes{
+    color: #c3fff7;
+}
+#idbiredes{
+    color: #c3fff7;
+}
+#idbifacbook{
+    color: #c3fff7;
+}
+.link{
+    text-decoration: none;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
